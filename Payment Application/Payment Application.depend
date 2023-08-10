@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1691641022 source:c:\users\amr ali\desktop\c\payment application\main.c
+	"card.h"
+	"card.c"
+	"terminal.h"
+	"terminal.c"
+	"server.h"
+	"server.c"
+
+1691123385 c:\users\amr ali\desktop\c\payment application\card.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<time.h>
+
+1691123335 c:\users\amr ali\desktop\c\payment application\terminal.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<time.h>
+	"card.h"
+
+1691641058 c:\users\amr ali\desktop\c\payment application\card.c
+	"card.h"
+
+1691641082 c:\users\amr ali\desktop\c\payment application\terminal.c
+	"terminal.h"
+
+1691302578 source:c:\users\amr ali\desktop\c\payment application\server.c
+	"server.h"
+
+1691640536 c:\users\amr ali\desktop\c\payment application\server.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<time.h>
+	"card.h"
+	"terminal.h"
+
+1691640109 c:\users\amr ali\desktop\c\payment application\server.c
+	"server.h"
+
