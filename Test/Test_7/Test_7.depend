@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1687844747 source:c:\users\amr ali\desktop\c\test_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"motor.h"
+
+1687838929 c:\users\amr ali\desktop\c\test_7\main.h
+
+1687844789 c:\users\amr ali\desktop\c\test_7\motor.h
+
+1687844577 source:c:\users\amr ali\desktop\c\test_7\motor.c
+	"motor.h"
+
